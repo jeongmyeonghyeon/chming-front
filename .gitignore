@@ -1,7 +1,5 @@
 # Created by https://www.gitignore.io/api/node,macos,windows,visualstudiocode
 
-dist
-
 ### macOS ###
 *.DS_Store
 .AppleDouble
